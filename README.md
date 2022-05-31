@@ -31,3 +31,12 @@ it on the loss screen.
 - When a bomb is activated all sets of pipes currently visible on the screen are destroyed.
 - Maximum count of pipe gameobjects in the scene should never exceed 20, regardless of
 the length of the session.
+
+
+![1](https://user-images.githubusercontent.com/58669159/171169159-c2103c56-398d-468c-97c5-582f41f65650.PNG)
+
+![2](https://user-images.githubusercontent.com/58669159/171169161-b75573ef-4ddb-443a-8aa7-bcc1dbe62df2.PNG)
+
+![3](https://user-images.githubusercontent.com/58669159/171169154-88132623-2b80-47be-b950-ead6c6504a48.PNG)
+
+
